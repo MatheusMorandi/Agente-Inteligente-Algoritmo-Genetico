@@ -1,1 +1,1 @@
-# Agente-Inteligente-Algoritmo-Genetio
+# Agente-Inteligente-Algoritmo-Genetico
